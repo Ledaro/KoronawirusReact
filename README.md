@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Web application that allows user to check current state of COVID-19 pandemic.
+It is possible to track statistics of this pandemic in countries all around the world.
 
 ## Available Scripts
 
@@ -7,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Downloads and installs neccesery packages included in repository.
+Downloads and installs neccesery packages included in directory.
 You need to do this first.
 
 
