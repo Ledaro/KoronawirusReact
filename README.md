@@ -1,5 +1,6 @@
-# Web application that allows user to check current state of COVID-19 pandemic.
-It is possible to track statistics of this pandemic in countries all around the world.
+# Web tracker of COVID-19 pandemic.
+This web application allows user to monitor current state of COVID-19 pandemic all around the world.
+With simple charts and numbers it is easy to create a very simple image of current state in each country.
 
 ## Available Scripts
 
